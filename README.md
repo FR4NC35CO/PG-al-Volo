@@ -1,11 +1,11 @@
-# PG-al-Volo
-Un generatore di personaggi in italiano per il sistema di gioco Fantastic Depths basato sulle regole della Rules Cyclopedia/BECMI, il famoso Dungeons &amp; Dragons 1e
+# 🎲 PG al Volo - Fantastic Depths Character Generator
+
+**Un potente strumento di generazione personaggi per Foundry VTT e il sistema Fantastic Depths**
 
 ![image](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dplastic%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FForelius%2Ffantastic-depths%2Frefs%2Fheads%2Fstable%2Fsystem.json)
 
-
 <br>
-<img width="503" height="741" alt="image" src="https://github.com/user-attachments/assets/dd3c7944-bb03-432f-b772-f4be56c1f184" />
+<img width="402" height="591" alt="image" src="https://github.com/user-attachments/assets/fb74f99b-b648-4c76-acd3-39943c01f28e" />
 
 <br>
 <br>
@@ -14,9 +14,9 @@ Un generatore di personaggi in italiano per il sistema di gioco Fantastic Depths
 >
 > ### 💡 Support
 >
-> **English:** This module is free and open source. If you like it, I appreciate any feedback!
+> **English:** This macro is free and open source. If you like it, I appreciate any feedback!
 >
-> **Italiano:** Questo modulo e' gratuito e open source. Se ti piace, vorrei un tuo feedback!
+> **Italiano:** Questa macro e' gratuito e open source. Se ti piace, vorrei un tuo feedback!
 
 <br>
 
@@ -26,12 +26,6 @@ Un generatore di personaggi in italiano per il sistema di gioco Fantastic Depths
 _Una semplice macro per creare personaggi giocanti al volo._
 
 <br>
-
-# 🎲 PG al Volo - Fantastic Depths Character Generator
-
-**Un potente strumento di generazione personaggi per Foundry VTT e il sistema Fantastic Depths**
-
----
 
 ## ✨ Caratteristiche Principali
 
