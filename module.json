@@ -1,0 +1,90 @@
+{
+  "id": "pg-al-volo-character-generator-for-fantastic-depths",
+  "title": "PG al Volo - Character Generator for Fantastic Depths",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p># ⚔️ PG al Volo - Character Generator for Fantastic Depths (Italian)</p><p>A blazing-fast, GM-focused character generator macro for BECMI/RC rules. Create fully-equipped PCs in under 10 seconds.</p><p>## 🎯 Key Features</p><p>**🎲 Smart Level System** — Fixed, random (1-36), or dice formulas (`2d4+1`)</p><p>**🛡️ Class Kits** — 12 classes with fixed + random loot from roll tables</p><p>**🎨 Dark UI** — Responsive HTML5 dialog with instant stat rolling</p><p>**🎭 Smart Naming** — Race-specific (Elf/Dwarf/Halfling/Human)</p><p>**⚔️ Auto Abilities** — Imports class features, saving throws, exploration skills</p><p>**💰 Gold Mode** — For manual shopping</p><p>## 🚀 How It Works</p><p>1. Import the adventure then Run macro → Fill form (all optional, defaults to random)</p><p>2. Click **Create** → Actor spawns with:</p><p>- Custom token image by class</p><p>- Equipped gear from class kit or generic loot</p><p>- Calculated HP, XP bonus, languages</p><p>- GM notes with weapon mastery &amp; skill slots</p><p>## 🛠️ Requirements</p><p>- Foundry VTT v13.351+</p><p>- `fantastic-depths` system v1.0.8+</p><p>- `fade-compendiums` module (items &amp; tables) v1.0.2</p><p>---</p><p>*This package was developed using AI tools to assist in writing and optimizing the JavaScript code.</p><p>The author has personally reviewed, tested, and fully understands every macro and takes complete responsibility for them.</p><p>Text content (names, descriptions, and flavour text) was generated with AI support and then edited by the author.</p><p>This module does **not** qualify as \"Zero AI\".*</p>",
+  "authors": [
+    {
+      "name": "FR4NC35C0",
+      "url": "https://github.com/FR4NC35CO/",
+      "discord": "fr4nc35c0",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/FR4NC35CO/PG-al-Volo",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "macro",
+      "label": "Macro",
+      "path": "packs/macro",
+      "type": "Macro",
+      "system": "fantastic-depths",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "negozio",
+      "label": "Negozio",
+      "path": "packs/negozio",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fantastic-depths"
+    },
+    {
+      "name": "tabelle",
+      "label": "Tabelle",
+      "path": "packs/tabelle",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fantastic-depths"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "fantastic-depths",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "fade-compendiums",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fade-lang-it",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
