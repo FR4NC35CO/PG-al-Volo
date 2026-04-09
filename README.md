@@ -100,9 +100,18 @@ _Una semplice macro per creare personaggi giocanti al volo._
 
 ---
 
-**Versione**: 1.0 GM-only  
-**Autore**: FR4NC35C0 (with AI support)
-**Licenza**: GNU General Public License v3.0 + Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
+**Version**: 1.0 GM-only  
+**Author**: FR4NC35C0 (with AI support)
+**License**: GNU General Public License v3.0 + Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
+
+## AI Usage Disclosure
+
+This package was developed using AI tools to assist in writing and optimizing the JavaScript code.  
+The author has personally reviewed, tested, and fully understands every macro and takes complete responsibility for them.
+
+Text content (names, descriptions, and flavour text) was generated with AI support and then edited by the author.
+
+This module does **not** qualify as "Zero AI".
 
 ---
 
