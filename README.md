@@ -100,8 +100,8 @@ _Una semplice macro per creare personaggi giocanti al volo._
 ---
 
 **Versione**: 1.0 GM-only  
-**Autore**: FR4NC35C0  
-**Licenza**: MIT
+**Autore**: FR4NC35C0 (with AI support)
+**Licenza**: GNU General Public License v3.0 + Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
 
 ---
 
