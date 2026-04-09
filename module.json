@@ -6,13 +6,12 @@
     "minimum": "13",
     "verified": "13.351"
   },
-  "description": "Generatore di personaggi rapido per Fantastic Depths (BECMI/RC). Create a fully equipped PC in under 10 seconds.\n\nFeatures smart level selection (fixed, random 1-36 or dice formulas), class kits with gear from roll tables, race-specific naming, automatic import of class features, saving throws and GM notes.\n\nIncludes the main generator macro, Shop actor and loot roll tables.\n\nThis module was developed with AI assistance for code writing and optimization. The author has personally reviewed, tested, and fully understands every part and takes complete responsibility.\nThis package does **not** qualify as \"Zero AI\".",
+  "description": "Generatore di personaggi rapido per Fantastic Depths (BECMI/RC). Create a fully equipped PC in under 10 seconds. Features smart level selection (fixed, random 1-36 or dice formulas), class kits with gear from roll tables, race-specific naming, automatic import of class features, saving throws and GM notes. Includes the main generator macro, Shop actor and loot roll tables. This module was developed with AI assistance for code writing and optimization. The author has personally reviewed, tested, and fully understands every part and takes complete responsibility. This package does NOT qualify as Zero AI.",
   "authors": [
     {
       "name": "FR4NC35C0",
       "url": "https://github.com/FR4NC35CO/",
-      "discord": "fr4nc35c0",
-      "flags": {}
+      "discord": "fr4nc35c0"
     }
   ],
   "url": "https://github.com/FR4NC35CO/PG-al-Volo",
@@ -43,32 +42,27 @@
     "systems": [
       {
         "id": "fantastic-depths",
-        "type": "system",
-        "compatibility": {}
+        "type": "system"
       }
     ],
     "requires": [
       {
         "id": "fade-compendiums",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "fade-lang-it",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "babele",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       }
     ],
     "recommends": [
       {
         "id": "item-piles",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       }
     ]
   },
