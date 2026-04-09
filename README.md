@@ -5,7 +5,7 @@
 ![image](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dplastic%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FForelius%2Ffantastic-depths%2Frefs%2Fheads%2Fstable%2Fsystem.json)
 
 <br>
-<img width="2202" height="747" alt="image" src="https://github.com/user-attachments/assets/aa93a60b-f6cd-45e3-acf3-c40c61b49219" />
+<img width="1836" height="622" alt="image" src="https://github.com/user-attachments/assets/e9aabdc5-0572-4b97-87af-4824c4df8236" />
 
 
 <br>
