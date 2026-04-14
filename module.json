@@ -1,7 +1,7 @@
 {
   "id": "pg-al-volo-character-generator-for-fantastic-depths",
   "title": "PG al Volo - Character Generator for Fantastic Depths",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
@@ -67,5 +67,5 @@
     ]
   },
   "manifest": "https://github.com/FR4NC35CO/PG-al-Volo/releases/latest/download/module.json",
-  "download": "https://github.com/FR4NC35CO/PG-al-Volo/releases/download/v1.0.0/pg-al-volo-v1.0.0.zip"
-}
+  "download": "https://github.com/FR4NC35CO/PG-al-Volo/releases/download/v1.0.1/pg-al-volo-v1.0.1.zip"
+ }
