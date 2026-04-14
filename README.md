@@ -33,7 +33,7 @@ _Una semplice macro per creare personaggi giocanti al volo._
 ## ✨ Caratteristiche Principali
 
 ### 🎯 Generazione Intelligente & Veloce
-- **Sistema di Livelli Avanzato**: Supporto per livelli fissi, casuali (1-36) o formule dinamiche (es. `2d4+1`, `1d6+2`)
+- **Sistema di Livelli Avanzato**: Selezione livello desiderato, casuali (da 1-36) o formule dinamiche (es. `2d4+1`, `1d6+2`)
 - **Tiro Abilità Flessibile**: 3d6 classico o 4d6 rimuovi il peggiore
 - **Allineamento Dinamico**: scegli tra i 3 classici di D&D o casuale
 
@@ -48,11 +48,11 @@ _Una semplice macro per creare personaggi giocanti al volo._
 | Bardo, Chierico, Druido | Kit arcani/divini |
 | Elfo, Nano, Halfling | Strumenti per razze specifiche |
 | Guerriero, Paladino, Vendicatore | Armi e Armature pesanti |
-| Ladro, Mistico, Mago | Attrezzatura leggera e oggetti magici |
+| Ladro, Mistico, Mago | Attrezzatura leggera e oggetti specifici |
 
 **Ogni kit include:**
 - Oggetti fissi (UUID specifici con quantità/dadi)
-- Tabelle casuali (armi, armature, oggetti speciali)
+- Tabelle per oggetti casuali (armi, armature, oggetti speciali)
 - Integrazione con compendi `fade-compendiums`
 
 ### 🎭 Generazione Nomi Avanzata
@@ -61,7 +61,7 @@ _Una semplice macro per creare personaggi giocanti al volo._
 
 ### ⚔️ Generazione Automatica Abilità
 - **Auto-import**: Abilità esplorazione, tiri salvezza e abilità di classe
-- **Classe Speciale - Mistico**: Padronanza base per tutte le armi attivata automaticamente
+- **Classe Speciale - Mistico**: Padronanza armi base per tutte le armi attivata automaticamente
 - **Calcolo XP Bonus %**: Basato sui requisiti primari della classe scelta o casualmente generata
 
 ### 🎒 Sistema Equipaggiamento Multi-modalità
@@ -73,7 +73,7 @@ _Una semplice macro per creare personaggi giocanti al volo._
 ### 👤 Gestione Personaggio
 - **Checkbox Seguace**: Opzione che aiuta a differenziare un PNG da un PG
 - **Token Personalizzati**: Immagini classe-specifiche dal game system auto-assegnate
-- **Note GM Automagiche**: Padronanza armi, Punti Abilità  precalcolati 
+- **Note Automatiche x completamento**: Punti Padronanza armi, Punti Abilità Generali precalcolati 
 
 ---
 
@@ -91,8 +91,9 @@ _Una semplice macro per creare personaggi giocanti al volo._
 
 ## 📝 Utilizzo
 
-1. Importa l'avventura
-2. Esegui la macro come GM
+1. Installa il modulo: https://raw.githubusercontent.com/FR4NC35CO/PG-al-Volo/main/module.json
+2. Importa le tabelle con lo stesso ID
+3. Esegui la macro PG al Volo
 3. Compila il form (tutti i campi sono opzionali - casuale per default)
 4. Clicca "Crea" → Il personaggio viene generato nella sidebar Actors con:
    - Token configurato
@@ -102,7 +103,7 @@ _Una semplice macro per creare personaggi giocanti al volo._
 
 ---
 
-**Version**: 1.0 GM-only  
+**Version**: 1.0.2 GM-only  
 **Author**: FR4NC35C0 (with AI support)
 **License**: GNU General Public License v3.0 + Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
 
