@@ -3,8 +3,10 @@
 **Un potente strumento di generazione personaggi per il sistema Fantastic Depths su Foundry VTT**
 
 ![image](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dplastic%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FForelius%2Ffantastic-depths%2Frefs%2Fheads%2Fstable%2Fsystem.json)
-
 <br>
+Copia questo link per installare: https://raw.githubusercontent.com/FR4NC35CO/PG-al-Volo/main/module.json
+<br>
+
 <img width="1836" height="622" alt="image" src="https://github.com/user-attachments/assets/e9aabdc5-0572-4b97-87af-4824c4df8236" />
 
 
